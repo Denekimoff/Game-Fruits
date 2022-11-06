@@ -82,7 +82,7 @@ export const App = () => {
         </div>
       </> :
       <button className='start-game' onClick={initGame}>
-          GO
+          Play
       </button>
     }
     <span className='writter'>by Denis Ekimov</span>
