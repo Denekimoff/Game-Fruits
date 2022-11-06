@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/game-fruits/static/css/main.28874551.css",
+    "main.css": "/game-fruits/static/css/main.026d1741.css",
     "main.js": "/game-fruits/static/js/main.a70660df.js",
     "static/media/bg.jpg": "/game-fruits/static/media/bg.df030a46b63f0d60c61c.jpg",
     "static/media/reset.svg": "/game-fruits/static/media/reset.fe2a54412b0ea805e08343e47ae27bae.svg",
     "index.html": "/game-fruits/index.html",
-    "main.28874551.css.map": "/game-fruits/static/css/main.28874551.css.map",
+    "main.026d1741.css.map": "/game-fruits/static/css/main.026d1741.css.map",
     "main.a70660df.js.map": "/game-fruits/static/js/main.a70660df.js.map"
   },
   "entrypoints": [
-    "static/css/main.28874551.css",
+    "static/css/main.026d1741.css",
     "static/js/main.a70660df.js"
   ]
 }
