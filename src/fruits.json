@@ -1,26 +1,26 @@
 [
     {
-        "src": "/fruits/apple.svg",
+        "src": "./fruits/apple.svg",
         "matched": false
     },
     {
-        "src": "/fruits/avocado.svg",
+        "src": "./fruits/avocado.svg",
         "matched": false
     },
     {
-        "src": "/fruits/banana.svg",
+        "src": "./fruits/banana.svg",
         "matched": false
     },
     {
-        "src": "/fruits/cherry.svg",
+        "src": "./fruits/cherry.svg",
         "matched": false
     },
     {
-        "src": "/fruits/grape.svg",
+        "src": "./fruits/grape.svg",
         "matched": false
     },
     {
-        "src": "/fruits/pineapple.svg",
+        "src": "./fruits/pineapple.svg",
         "matched": false
     }
 ]

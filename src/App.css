@@ -4,7 +4,7 @@ body {
   font-family: 'Caveat', cursive;
   background-image: url("../public/bg.jpg");
   background-size: cover;
-  height: 100vh;
+  height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -19,11 +19,14 @@ body::before {
   box-shadow: 0 0 2rem 0 #000 inset;
 }
 
+.wrapper {
+  max-width: 100%;
+}
 h1 {
   font-size: 3.5rem;
   padding: 0 5rem;
   color: white;
-  margin-bottom: 3rem;
+  margin: 5rem 0 3rem 0;
   border: 1px solid rgba(255, 255, 255, 0.747);
   border-radius: 2rem;
   box-shadow: #fff 0 0 0.5rem ;
@@ -94,8 +97,8 @@ button {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 4rem;
-  width: 4rem;
+  height: 3rem;
+  width: 3rem;
   position: fixed;
   top: 1rem;
   right: 50%;

@@ -61,7 +61,7 @@ export const App = () => {
   }, [fruitTwo, fruitOne])
 
   return (
-  <div>
+  <div className='wrapper'>
     <h1>Fruits Game</h1>
     {
       fruits.length ? <>
