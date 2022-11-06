@@ -1,3 +1,9 @@
+build game-fruit on React:
+
+![Screenshot_1](https://user-images.githubusercontent.com/106384959/200149351-bd3a939e-dda1-41c5-8cdc-448d608246ab.jpg)
+
+ https://denekimoff.github.io/game-fruits/ - link for view project
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
